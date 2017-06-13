@@ -1,1 +1,2 @@
-# mujeres
+# Un informe de ISGlobal y el Banco Mundial utiliza un nuevo enfoque para cuantificar la desigualdad en la cobertura del derecho a la salud de las mujeres subsaharianas
+# Este repositorio contiene una visualización de los principales datos del informe, que utilizan el llamado Índice de Oportunidad Humana para mostrar la falta de equidad en el acceso a las oportunidades para las mujeres y adolescentes del África subsahariana. 
